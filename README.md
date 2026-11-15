@@ -35,3 +35,7 @@ Aplikasi terdesentralisasi (DApp) berbasis Flutter yang terhubung dengan Smart C
 - **flutter_dotenv:** `^6.0.2`
 - **wallet:** `^0.0.18`
 - **cupertino_icons:** `^1.0.8`
+
+## Sumber Kode & Referensi Adaptasi
+- **Kerangka Smart Contract:** Diadaptasi dan dikembangkan dari kerangka `ChainTodo.sol` pada modul *Tugas Proyek: Aplikasi Flutter Terhubung Blockchain* (Mata Kuliah Pemrograman Mobile 2, D4 Teknologi Rekayasa Komputer, Politeknik Negeri Samarinda)[cite: 9, 12].
+- **Integrasi Flutter & Web3:** Mengadaptasi pola komunikasi RPC dan pemanggilan fungsi kontrak menggunakan paket `web3dart` dari dokumentasi/video rujukan resmi pengembang Dart & Ethereum (*Build a Blockchain dApp with Flutter and Dart on Ethereum* dan *Build Your First Blockchain Flutter App*)[cite: 10].
