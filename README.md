@@ -27,3 +27,11 @@ Aplikasi terdesentralisasi (DApp) berbasis Flutter yang terhubung dengan Smart C
    ```bash
    git clone [https://github.com/Jakiniku/logbook-lab-iot-flutter.git](https://github.com/Jakiniku/logbook-lab-iot-flutter.git)
    cd chain_todo
+
+## Versi Lingkungan & Paket
+- **Dart SDK:** `^3.13.0`
+- **web3dart:** `^3.0.3`
+- **http:** `^1.6.0`
+- **flutter_dotenv:** `^6.0.2`
+- **wallet:** `^0.0.18`
+- **cupertino_icons:** `^1.0.8`
